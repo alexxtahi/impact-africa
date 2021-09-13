@@ -6,55 +6,33 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Mines et travaux de la terre</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Atouts</a></h4>
+                <p class="description">
+                  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
+                </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Location de matériel</a></h4>
-              <p class="description"><b>Impact Africa</b> vous propose une série de machines modernes et bien entretenues, de grandes marques 
-                internationales nécessaires aux travaux de terrassement,
-                 d’assainissement, de viabilisation, de voirie et autres dans le secteur du BTP.
-                </p>
+              <h4 class="title"><a href="">Expérience</a></h4>
+              <p class="description">   
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
+              </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Transport et Logistique</a></h4>
-              <p class="description"><b>Impact Africa</b> vous propose un service souple de transport routier national de cargaison, 
-                avec des garanties de sécurité et de ponctualité. Grâce à nos solutions, vous pouvez réaliser des envois sur 
-                toute l'étendue du pays à moindre prix.</p>
+              <h4 class="title"><a href="">Efficatié</a></h4>
+              <p class="description">  
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
+              </p>
             </div>
           </div>
 
-
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 service-bottom" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Construction et entretient des routes</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 service-bottom" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Construction et génie civil</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 service-bottom" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Réhabilitation</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
           </div>
 
         </div>
@@ -101,6 +79,7 @@
             </p>
             <a href="#" class="btn-learn-more">En savoir plus</a>
           </div>
+          
         </div>
 
       </div>
@@ -133,7 +112,7 @@
 
         <div class="row">
 
-          <div class="col-lg-5 align-items-stretch position-relative video-box" style='background-image: url("{{ asset('Anyar/assets/img/why-us.jpg') }}");' data-aos="fade-right">
+          <div class="col-lg-5 align-items-stretch position-relative video-box" style='background-image: url("{{ asset('Anyar/assets/img/c6.jpg') }}");' data-aos="fade-right">
             <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
           </div>
 
@@ -150,28 +129,39 @@
             <div class="accordion-list">
               <ul>
                 <li data-aos="fade-up" data-aos-delay="100">
-                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Nos atouts<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
                     <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                      Nous disposons d'ne main d’œuvre qualifiée, compétente et consciente de ses responsabilités, de matériel fiable, 
+                      ayant prouvée leur efficacité et leur robustesse dans le monde entier, d'une équipe dirigeante ambitieuse, 
+                      sans cesse en quête d’excellence et de perfection.
+                      
+
                     </p>
                   </div>
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="200">
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Nos expérience <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                      Depuis 2013 Construction et maintenance de routes miniers au compte de la société AngloGold Ashanti, Mine de Siguiri.
+                      De 2018 à nos jours Construction de la base de Groupement des forces spéciales de Guinée.
+                      En 2020, Travaux construction d’extension et de rénovation de la base avancée du Groupement forces spéciales de la Guinée a Conakry et bien d'autre....
+
+
                     </p>
                   </div>
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="300">
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> La garantie de notre efficacité <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                     
+                      Le bien-être de nos partenaires et collaborateurs, la qualité, la sécurité, le respect de l’environnement ainsi que la prise 
+                      en compte des réalités sociales sont une préoccupation permanente de la Société Impact Africa. 
+                      Nous avons la conviction que notre politique QHSEC ainsi définie est la garantie de notre efficacité
                     </p>
                   </div>
                 </li>
@@ -192,50 +182,61 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <i class="bi bi-card-checklist"></i>
-              <h4><a href="#">Lorem Ipsum</a></h4>
+              <h4><a href="#">Mines et travaux de la terre</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <i class="bi bi-bar-chart"></i>
-              <h4><a href="#">Dolor Sitema</a></h4>
-              <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4><a href="#">Location de matériel</a></h4>
+              <p>
+                Nous vous proposons une série de machines modernes et bien entretenues, de grandes marques 
+                internationales nécessaires aux travaux de terrassement,
+               d’assainissement, de viabilisation, de voirie et autres dans le secteur du BTP.
+              </p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <i class="bi bi-binoculars"></i>
-              <h4><a href="#">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4><a href="#">Transport et Logistique</a></h4>
+              <p>
+                Nous  vous proposons un service souple de transport routier national de cargaison, 
+                avec des garanties de sécurité et de ponctualité. Grâce à nos solutions, vous pouvez réaliser des envois sur 
+                toute l'étendue du pays à moindre prix.</p>
+              </p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <i class="bi bi-brightness-high"></i>
-              <h4><a href="#">Nemo Enim</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4><a href="#">Construction  des routes</a></h4>
+              <p>Nous sommes aussi spécialisé dans la construction d'infracstructure routière. 
+                Nos voiries se distingue par la qualité des materiaux utilisés.</p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <i class="bi bi-calendar4-week"></i>
-              <h4><a href="#">Magni Dolore</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4><a href="#">Construction  génie-civil</a></h4>
+              <p>Spécilaisé dans le génie-civil, nous disposons  de plusieurs ingénieur expérimentés dans ce domain.
+                Nous avons  large palette de savoir faire matière d'étude de conception et de construction.Decouvrez notre *
+                expertise et notre devis concurrentiels</p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
               <i class="bi bi-briefcase"></i>
-              <h4><a href="#">Eiusmod Tempor</a></h4>
-              <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <h4><a href="#">Réhabilitation  des batiments et des voiries</a></h4>
+              <p>Notre entreprise intervient aussi au niveau de la rénovation des infracstructures quelque soit leurs états.
+                 Confiez votre travail entre des mains d'experts !</p>
             </div>
           </div>
         </div>
@@ -249,11 +250,10 @@
 
         <div class="row" data-aos="zoom-in">
           <div class="col-lg-9 text-center text-lg-start">
-            <h3>Call To Action</h3>
+            <h3>Pourquoi nous choisir ?</h3>
             <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
           </div>
         </div>
 
@@ -265,8 +265,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Nos réalisation</h2>
         </div>
 
         <div class="row">
@@ -382,7 +381,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Owners</h2>
+          <h2>direction</h2>
           <p>The shareholders and share allocation are as follow</p>
         </div>
 
