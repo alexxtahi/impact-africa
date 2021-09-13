@@ -15,7 +15,10 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">Location de matériel</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <p class="description"><b>Impact Africa</b> vous propose une série de machines modernes et bien entretenues, de grandes marques 
+                internationales nécessaires aux travaux de terrassement,
+                 d’assainissement, de viabilisation, de voirie et autres dans le secteur du BTP.
+                </p>
             </div>
           </div>
 
@@ -23,7 +26,9 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4 class="title"><a href="">Transport et Logistique</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <p class="description"><b>Impact Africa</b> vous propose un service souple de transport routier national de cargaison, 
+                avec des garanties de sécurité et de ponctualité. Grâce à nos solutions, vous pouvez réaliser des envois sur 
+                toute l'étendue du pays à moindre prix.</p>
             </div>
           </div>
 
@@ -135,11 +140,10 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
 
             <div class="content">
-              <h3>An experience in subcontracting which allows us to be <strong>operational from the first hours.</strong></h3>
+              <h3>Une expérience de la sous-traitance qui nous permet d'être <strong>opérationnel dès les premières heures. </strong></h3>
               <p>
-                  An ambitionous, higly motivated management
-                  team constantly striving for excellence
-                  and perfection.
+                Une équipe de direction ambitieuse et proactive
+                , toujours à la recherche de l'excellence et de la perfection.   
               </p>
             </div>
 
