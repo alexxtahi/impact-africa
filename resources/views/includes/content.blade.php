@@ -6,7 +6,7 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Mining and Earth work</a></h4>
+              <h4 class="title"><a href="">Mines et travaux de la terre</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
@@ -14,7 +14,7 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Equipment rental</a></h4>
+              <h4 class="title"><a href="">Location de matériel</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
@@ -22,7 +22,7 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Transport & Logistics</a></h4>
+              <h4 class="title"><a href="">Transport et Logistique</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
           </div>
@@ -31,7 +31,7 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 service-bottom" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Road construction and maintenance</a></h4>
+              <h4 class="title"><a href="">Construction et entretient des routes</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
             </div>
           </div>
@@ -39,7 +39,7 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 service-bottom" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Civil construction and engineering</a></h4>
+              <h4 class="title"><a href="">Construction et génie civil</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
             </div>
           </div>
@@ -47,7 +47,7 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 service-bottom" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Rehabilitation</a></h4>
+              <h4 class="title"><a href="">Réhabilitation</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
             </div>
           </div>
@@ -62,19 +62,26 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-            <h2>About Us</h2>
+            <h2>A propos de nous</h2>
             <p>
-                Impact Africa is a privately owned limited
-                liability company, which is registered in
-                Guinea with no parent or foreign ownership
-                structure.
+              IMPACT AFRICA SARL est une entreprise générale évoluant dans les domaines de la construction
+               et des travaux publics. Elle est enregistrée et basée en République de Guinée.  
+               La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens,
+                du secteur privé et du gouvernement ; en mettant l’accent sur la qualité du travail,
+                 le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts. 
+
+
+
+               
+               
+               
             </p>
         </div>
 
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              The shareholders and share allocations are as follow:
+              Les actionnaires et les attributions d'actions sont les suivants :
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i>Fofana Fode Amadou - 70%</li>
@@ -84,11 +91,10 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              The idea behind Impact Africa's creation was to positively
-              influence and participate to Africa's development in
-              general and Guinea in particular, thus its name.
+              L’idée et la motivation derrière la création de l’entreprise ayant été de participer positivement
+              au développement de l’Afrique en général et de la Guinée en particulier. D’où son nom. 
             </p>
-            <a href="#" class="btn-learn-more">Read More</a>
+            <a href="#" class="btn-learn-more">En savoir plus</a>
           </div>
         </div>
 
@@ -585,7 +591,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact Us</h2>
+          <h2>Nous contactez</h2>
         </div>
 
         <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
@@ -622,14 +628,14 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nom" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" required>
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
@@ -637,9 +643,9 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Votre méssage a bien été envoyé. Merci !</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Envoyer</button></div>
             </form>
 
           </div>
