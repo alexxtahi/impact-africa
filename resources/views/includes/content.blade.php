@@ -255,7 +255,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfoio</h2>
+          <h2>Portfolio</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -372,19 +372,19 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Owners</h2>
+          <p>The shareholders and share allocation are as follow</p>
         </div>
 
         <div class="row">
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>FOFANA Fode Amadou</h4>
+                <span>Manager</span>
+                <!--<p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>-->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -395,13 +395,13 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-2.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
+                <h4>FOFANA Thierno Madiou</h4>
                 <span>Product Manager</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <!--<p>Aut maiores voluptates amet et quis praesentium qui senda para</p>-->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -412,30 +412,13 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-3.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
+                <h4>FOFANA Nagnalen</h4>
                 <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="400">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-4.jpg') }}" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <!--<p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>-->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -612,19 +595,22 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Tanéné marché, Commune de Matoto B.P. 2411</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>impactafrica@hotmail.com</p>
+                <p>impactafrica09@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>(+224) 622-22-22-722</p>
+                <p>(+224) 628-24-59-59</p>
+                <p>(+224) 631-13-06-00</p>
               </div>
 
             </div>
