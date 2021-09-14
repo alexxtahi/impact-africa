@@ -5,12 +5,12 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-            <h4>Our Newsletter</h4>
-            <p>Put your email adress to subscribe to our newsletter.</p>
+            <h4>Notre Newsletter</h4>
+            <p>Renseignez votre adresse mail pour vous abonner à notre newsletter.</p>
           </div>
           <div class="col-lg-6">
             <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+              <input type="email" name="email"><input type="submit" value="Souscrire">
             </form>
           </div>
         </div>
@@ -22,44 +22,43 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Liens utiles</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Accueil</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">A propos</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Our realisations</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Porfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Termes des services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Police de confidentialité</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Nos Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Mining and Earth work</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Equipment rental</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Transport & Logistics</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Road construction and maintenance</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Civil construction and engineering</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Rehabilitation</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Mines et travaux de la terre</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Location de matériel</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Transport et Logistique</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Construction des routes</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Construction génie-civil</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Réhabilitation</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>Nos contacts</h4>
             <p>
               Tanéné marché, Commune de Matoto<br>
-              B.P. 2411 CONAKRY, Républic of Guinea<br>
-              Guinea<br>
-              <strong>Phone:</strong> (+224) 622-22-22-722<br>(+224) 628-24-59-59<br>(+224) 631-13-06-00<br>
-              <strong>Email:</strong> impactafrica@hotmail.com<br>impactafrica09@gmail.com
+              B.P. 2411 CONAKRY, République de Guinée<br>
+              <strong>Téléphone:</strong> (+224) 622-22-22-722<br>(+224) 628-24-59-59<br>(+224) 631-13-06-00<br>
+              <strong>E-mail:</strong> impactafrica@hotmail.com<br>impactafrica09@gmail.com
             </p>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>About Impact Africa</h3>
-            <p>We are a privately owned limited liability company, which is registered in Guinea with no parent or foreign ownership structure.</p>
+            <h3>A propos d'Impact Africa</h3>
+            <p>Nous sommes une société privée à responsabilité limitée, enregistrée en Guinée, sans structure mère ou étrangère.</p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

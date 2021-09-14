@@ -17,7 +17,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">Expérience</a></h4>
-              <p class="description">   
+              <p class="description">
                 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
               </p>
             </div>
@@ -26,8 +26,8 @@
           <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Efficatié</a></h4>
-              <p class="description">  
+              <h4 class="title"><a href="">Efficacité</a></h4>
+              <p class="description">
                 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
               </p>
             </div>
@@ -47,17 +47,11 @@
         <div class="section-title">
             <h2>A propos de nous</h2>
             <p>
-              IMPACT AFRICA SARL est une entreprise générale évoluant dans les domaines de la construction
-               et des travaux publics. Elle est enregistrée et basée en République de Guinée.  
-               La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens,
+                IMPACT AFRICA SARL est une entreprise générale évoluant dans les domaines de la construction
+                et des travaux publics. Elle est enregistrée et basée en République de Guinée.
+                La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens,
                 du secteur privé et du gouvernement ; en mettant l’accent sur la qualité du travail,
-                 le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts. 
-
-
-
-               
-               
-               
+                le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts.
             </p>
         </div>
 
@@ -75,11 +69,11 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
               L’idée et la motivation derrière la création de l’entreprise ayant été de participer positivement
-              au développement de l’Afrique en général et de la Guinée en particulier. D’où son nom. 
+              au développement de l’Afrique en général et de la Guinée en particulier. D’où son nom.
             </p>
             <a href="#" class="btn-learn-more">En savoir plus</a>
           </div>
-          
+
         </div>
 
       </div>
@@ -121,8 +115,8 @@
             <div class="content">
               <h3>Une expérience de la sous-traitance qui nous permet d'être <strong>opérationnel dès les premières heures. </strong></h3>
               <p>
-                Une équipe de direction ambitieuse et proactive
-                , toujours à la recherche de l'excellence et de la perfection.   
+                Une équipe de direction ambitieuse et proactive,
+                toujours à la recherche de l'excellence et de la perfection.
               </p>
             </div>
 
@@ -132,24 +126,20 @@
                   <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Nos atouts<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
                     <p>
-                      Nous disposons d'ne main d’œuvre qualifiée, compétente et consciente de ses responsabilités, de matériel fiable, 
-                      ayant prouvée leur efficacité et leur robustesse dans le monde entier, d'une équipe dirigeante ambitieuse, 
+                      Nous disposons de matériel fiable, d'une main d’œuvre qualifiée, compétente et consciente de ses responsabilités
+                      ayant prouvée leur efficacité et leur robustesse dans le monde entier, d'une équipe dirigeante ambitieuse,
                       sans cesse en quête d’excellence et de perfection.
-                      
-
                     </p>
                   </div>
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="200">
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Nos expérience <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Nos expériences<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                      Depuis 2013 Construction et maintenance de routes miniers au compte de la société AngloGold Ashanti, Mine de Siguiri.
-                      De 2018 à nos jours Construction de la base de Groupement des forces spéciales de Guinée.
-                      En 2020, Travaux construction d’extension et de rénovation de la base avancée du Groupement forces spéciales de la Guinée a Conakry et bien d'autre....
-
-
+                      Depuis 2013, construction et maintenance de routes miniers au compte de la société AngloGold Ashanti, Mine de Siguiri.<br>
+                      De 2018 à nos jours, construction de la base de groupement des forces spéciales de Guinée.<br>
+                      En 2020, travaux construction d’extension et de rénovation de la base avancée du Groupement forces spéciales de la Guinée à Conakry et bien d'autre...
                     </p>
                   </div>
                 </li>
@@ -158,10 +148,9 @@
                   <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> La garantie de notre efficacité <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                     
-                      Le bien-être de nos partenaires et collaborateurs, la qualité, la sécurité, le respect de l’environnement ainsi que la prise 
-                      en compte des réalités sociales sont une préoccupation permanente de la Société Impact Africa. 
-                      Nous avons la conviction que notre politique QHSEC ainsi définie est la garantie de notre efficacité
+                      Le bien-être de nos partenaires et collaborateurs, la qualité, la sécurité, le respect de l’environnement ainsi que la prise
+                      en compte des réalités sociales sont une préoccupation permanente de la Société Impact Africa.
+                      Nous avons la conviction que notre politique QHSEC ainsi définie est la garantie de notre efficacité.
                     </p>
                   </div>
                 </li>
@@ -197,7 +186,7 @@
               <i class="bi bi-bar-chart"></i>
               <h4><a href="#">Location de matériel</a></h4>
               <p>
-                Nous vous proposons une série de machines modernes et bien entretenues, de grandes marques 
+                Nous vous proposons une série de machines modernes et bien entretenues, de grandes marques
                 internationales nécessaires aux travaux de terrassement,
                d’assainissement, de viabilisation, de voirie et autres dans le secteur du BTP.
               </p>
@@ -208,33 +197,33 @@
               <i class="bi bi-binoculars"></i>
               <h4><a href="#">Transport et Logistique</a></h4>
               <p>
-                Nous  vous proposons un service souple de transport routier national de cargaison, 
-                avec des garanties de sécurité et de ponctualité. Grâce à nos solutions, vous pouvez réaliser des envois sur 
-                toute l'étendue du pays à moindre prix.</p>
+                Nous  vous proposons un service souple de transport routier national de cargaison,
+                avec des garanties de sécurité et de ponctualité. Grâce à nos solutions, vous pouvez réaliser des envois sur
+                toute l'étendue du pays à moindre coût.</p>
               </p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <i class="bi bi-brightness-high"></i>
-              <h4><a href="#">Construction  des routes</a></h4>
-              <p>Nous sommes aussi spécialisé dans la construction d'infracstructure routière. 
+              <h4><a href="#">Construction des routes</a></h4>
+              <p>Nous sommes aussi spécialisé dans la construction d'infracstructure routière.
                 Nos voiries se distingue par la qualité des materiaux utilisés.</p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <i class="bi bi-calendar4-week"></i>
-              <h4><a href="#">Construction  génie-civil</a></h4>
-              <p>Spécilaisé dans le génie-civil, nous disposons  de plusieurs ingénieur expérimentés dans ce domain.
-                Nous avons  large palette de savoir faire matière d'étude de conception et de construction.Decouvrez notre *
-                expertise et notre devis concurrentiels</p>
+              <h4><a href="#">Construction génie-civil</a></h4>
+              <p>Spécilaisés dans le génie-civil, nous disposons de plusieurs ingénieur expérimentés dans ce domaine.
+                Nous avons une large palette de savoir faire en matière d'étude de conception et de construction.
+                Decouvrez notre expertise et notre devis concurrentiels</p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
               <i class="bi bi-briefcase"></i>
-              <h4><a href="#">Réhabilitation  des batiments et des voiries</a></h4>
+              <h4><a href="#">Réhabilitation des batiments et des voiries</a></h4>
               <p>Notre entreprise intervient aussi au niveau de la rénovation des infracstructures quelque soit leurs états.
                  Confiez votre travail entre des mains d'experts !</p>
             </div>
@@ -251,7 +240,7 @@
         <div class="row" data-aos="zoom-in">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Pourquoi nous choisir ?</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
           </div>
@@ -265,16 +254,16 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Nos réalisation</h2>
+          <h2>Nos réalisations</h2>
         </div>
 
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Tout</li>
+              <li data-filter=".filter-web">Chantiers</li>
+              <li data-filter=".filter-card">Finitions</li>
+              <li data-filter=".filter-app">Engins</li>
             </ul>
           </div>
         </div>
@@ -282,91 +271,71 @@
         <div class="row portfolio-container">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-1.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/engin1.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <h4>Engin</h4>
+              <p>Caterpilar</p>
+              <a href="{{ asset('assets/img/engin1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Caterpilar"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-2.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/chantier1.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <h4>Chantier</h4>
+              <p>Construction de pont</p>
+              <a href="{{ asset('assets/img/chantier1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Construction de pont"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="{{ asset('assets/img/plan1.jpg') }}" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Finition</h4>
+              <p>Plan</p>
+              <a href="{{ asset('assets/img/plan1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Plan"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="{{ asset('assets/img/travailleur1.jpg') }}" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Finition</h4>
+              <p>Travailleur</p>
+              <a href="{{ asset('assets/img/travailleur1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Travailleur"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="{{ asset('assets/img/chantier2.jpg') }}" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Chantier</h4>
+              <p>Structure immobilière</p>
+              <a href="{{ asset('assets/img/chantier2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Structure immobilière"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-3.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/engin2.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+              <h4>Engin</h4>
+              <p>Pelleteuse</p>
+              <a href="{{ asset('assets/img/engin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Pelleteuse"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-5.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/chantier3.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-5.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-7.jpg') }}" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-7.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-8.jpg') }}" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-8.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('Anyar/assets/img/portfolio/portfolio-9.jpg') }}" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="{{ asset('Anyar/assets/img/portfolio/portfolio-9.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <h4>Chantier</h4>
+              <p>Terrain plat</p>
+              <a href="{{ asset('assets/img/chantier3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Terrain plat"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -382,7 +351,7 @@
 
         <div class="section-title">
           <h2>direction</h2>
-          <p>The shareholders and share allocation are as follow</p>
+          <p>Les actionnaires et la répartition des actions sont les suivants</p>
         </div>
 
         <div class="row">
@@ -448,77 +417,53 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Les plus demandés</h2>
+          <p>
+              Nous recevons fréquement des demandes pour les services suivants
+          </p>
         </div>
 
-        <div class="row">
+        <div class="row most-demand-div">
 
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <!--<span class="advanced">Plus demandé</span>-->
+              <h3>Location de matériel</h3>
+              <h4>60 <sup>%</sup></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>La location de matériel est de plus en plus demandée sur le marché de la construction.</li>
+                <!--<li>Camions (Trucks)</li>
+                <li>Véhicules de chantiers 4X4</li>
+                <li>Bétonnières</li>-->
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Demande</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="box featured">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+            <div class="box">
+              <h3>Transport et Logistique</h3>
+              <h4>25 <sup>%</sup></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>Service avec une demande en hausse au vu de tous le matériel à transporter sur les chantiers.</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Demande</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h3>Réhabilitation</h3>
+              <h4>15 <sup>%</sup></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Nous recevons également de nombreuses demandes de réhabilitation des structures.</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-            <div class="box">
-              <span class="advanced">Advanced</span>
-              <h3>Ultimate</h3>
-              <h4><sup>$</sup>49<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Demande</a>
               </div>
             </div>
           </div>
@@ -533,52 +478,44 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
+          <h2>F.A.Q</h2>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">De quels atouts disposez vous ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                    Nous disposons d'une main d’œuvre qualifiée, compétente et consciente de ses responsabilités car soumis à un test de recrutement très rigoureux et formée aux exigences de santé, de sécurité et de la protection de l’environnement.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Combien d'années d'expérience avez-vous à votre actif ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    Nous totalisons 7 ans d'expérience dans le domaine du BTP depuis 2013.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Quels sont les engins que vous mettez en location ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                </p>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
-                </p>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                    Bulldozers,
+                    chargeuses sur pneus (Wheel loaders),
+                    Niveleuses (Motor graders),
+                    Pelles Mécaniques (Excavators),
+                    Compacteurs (Compactors),
+                    Tractopelles (Backhoe loaders),
+                    Grues (Cranes),
+                    Charriots Élévateurs (Télescopique Forklits),
+                    Camions (Trucks),
+                    Véhicules de chantiers 4X4,
+                    Bétonnières, camions bennes, camions citernes, Échafaudages, Etc…
                 </p>
               </div>
             </li>
@@ -594,7 +531,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Nous contactez</h2>
+          <h2>Nous contacter</h2>
         </div>
 
         <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
@@ -603,20 +540,20 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
+                <h4>Adresse:</h4>
                 <p>Tanéné marché, Commune de Matoto B.P. 2411</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
+                <h4>E-mail:</h4>
                 <p>impactafrica@hotmail.com</p>
                 <p>impactafrica09@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4>Téléphone:</h4>
                 <p>(+224) 622-22-22-722</p>
                 <p>(+224) 628-24-59-59</p>
                 <p>(+224) 631-13-06-00</p>

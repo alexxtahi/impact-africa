@@ -6,3 +6,8 @@
     padding-top: 47px !important;
     padding-bottom: 0 !important;
 }
+
+.most-demand-div {
+    display: flex !important;
+    justify-content: center !important;
+}
