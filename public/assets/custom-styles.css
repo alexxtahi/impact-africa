@@ -11,3 +11,41 @@
     display: flex !important;
     justify-content: center !important;
 }
+
+#hero {
+    background-size: cover !important;
+    animation: hero-slide 50s infinite !important;
+    transition: all 0.5s;
+}
+
+@keyframes hero-slide {
+    0% {
+        background: url("/Anyar/assets/img/c4.jpg") top center;
+    }
+
+    20% {
+        background: url("/Anyar/assets/img/c3.jpg") top center;
+    }
+
+    40% {
+        background: url("/Anyar/assets/img/c2.jpg") top center;
+    }
+
+    60% {
+        background: url("/Anyar/assets/img/c1.jpg") top center;
+    }
+
+    60% {
+        background: url("/Anyar/assets/img/cta-bg.jpg") top center;
+    }
+
+    100% {
+        background: url("/Anyar/assets/img/c4.jpg") top center;
+    }
+
+}
+
+.why-us-img {
+    background-size: cover !important;
+    background-image: url("/Anyar/assets/img/c5.jpg") !important;
+}

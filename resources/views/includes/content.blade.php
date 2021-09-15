@@ -6,30 +6,34 @@
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Parteniare</a></h4>
+              <div class="icon"><i class="bx bx-building"></i></div>
+              <h4 class="title"><a href="">Partenaires</a></h4>
                 <p class="description">
-                  5
+                  Ayant remarqué notre expertise, ces <strong>5</strong> partenaires que nous avons
+                  n'ont pas hésité à nous contacter pour s'associer à nous.
                 </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
+              <div class="icon"><i class="bx bx-user"></i></div>
               <h4 class="title"><a href="">Clients satisfaits</a></h4>
               <p class="description">
-                20
+                Ils nous ont fait confiance et n'ont pas été déçu,
+                ils sont <strong>20</strong> à avoir été satisfait par la qualité du
+                travail de nos équipes.
               </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><i class="bx bx-box"></i></div>
               <h4 class="title"><a href="">Projet menés</a></h4>
               <p class="description">
-                20
+                Nous comptons un total de <strong>20</strong> sur lesquels nos équipes
+                ont traviller dur jusqu'au résultat final.
               </p>
             </div>
           </div>
@@ -38,10 +42,13 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
               <h4 class="title"><a href="">Projet en cours</a></h4>
-              <p class="description">5</p>
+              <p class="description">
+                  Nous avons à notre actif <strong>5</strong> projets sur lesquels nos équipes
+                  continuent de travailler durent dans le but d'avoir une finition parfaite.
+                </p>
             </div>
           </div>
-  
+
         </div>
       </div>
     </section><!-- End Icon Boxes Section -->
@@ -56,7 +63,7 @@
                 IMPACT AFRICA SARL est une entreprise générale évoluant dans les domaines de la construction
                 et des travaux publics. Elle est enregistrée et basée en République de Guinée.
                 La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens,
-                du secteur privé et du gouvernement ; en mettant l’accent sur la qualité du travail,
+                qu'au niveau du secteur privé et du gouvernement ; En mettant l’accent sur la qualité du travail,
                 le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts.
             </p>
         </div>
@@ -67,9 +74,9 @@
               Les actionnaires et les attributions d'actions sont les suivants :
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i>Fofana Fode Amadou - 70%</li>
-              <li><i class="ri-check-double-line"></i>Fofana Thierno Madiou - 15%</li>
-              <li><i class="ri-check-double-line"></i>Fofana Nagnalen - 15%</li>
+              <li><i class="bx bx-user"></i>Fofana Fode Amadou - 70%</li>
+              <li><i class="bx bx-user"></i>Fofana Thierno Madiou - 15%</li>
+              <li><i class="bx bx-user"></i>Fofana Nagnalen - 15%</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
@@ -112,8 +119,8 @@
 
         <div class="row">
 
-          <div class="col-lg-5 align-items-stretch position-relative video-box" style='background-image: url("{{ asset('Anyar/assets/img/c6.jpg') }}");' data-aos="fade-right">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          <div class="col-lg-5 align-items-stretch position-relative video-box why-us-img" style='background-image: url("{{ asset('Anyar/assets/img/c6.jpg') }}");' data-aos="fade-right">
+            <!--<a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>-->
           </div>
 
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
@@ -182,14 +189,17 @@
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
-              <i class="bi bi-card-checklist"></i>
+              <i class="bi bi-layers-half"></i>
               <h4><a href="#">Mines et travaux de la terre</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p>
+                  Nous comptons dans nos rang des experts dans le domaine des mines et du travail
+                  de la terre que nous sommes prêts à mettre à votre service.
+                </p>
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
-              <i class="bi bi-bar-chart"></i>
+              <i class="bi bi-briefcase"></i>
               <h4><a href="#">Location de matériel</a></h4>
               <p>
                 Nous vous proposons une série de machines modernes et bien entretenues, de grandes marques
@@ -200,7 +210,7 @@
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
-              <i class="bi bi-binoculars"></i>
+              <i class="bi bi-box-seam"></i>
               <h4><a href="#">Transport et Logistique</a></h4>
               <p>
                 Nous  vous proposons un service souple de transport routier national de cargaison,
@@ -211,7 +221,7 @@
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
-              <i class="bi bi-brightness-high"></i>
+              <i class="bi bi-map"></i>
               <h4><a href="#">Construction des routes</a></h4>
               <p>Nous sommes aussi spécialisé dans la construction d'infracstructure routière.
                 Nos voiries se distingue par la qualité des materiaux utilisés.</p>
@@ -219,7 +229,7 @@
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
-              <i class="bi bi-calendar4-week"></i>
+              <i class="bi bi-bricks"></i>
               <h4><a href="#">Construction génie-civil</a></h4>
               <p>Spécilaisés dans le génie-civil, nous disposons de plusieurs ingénieur expérimentés dans ce domaine.
                 Nous avons une large palette de savoir faire en matière d'étude de conception et de construction.
@@ -228,7 +238,7 @@
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
-              <i class="bi bi-briefcase"></i>
+              <i class="bi bi-capslock"></i>
               <h4><a href="#">Réhabilitation des batiments et des voiries</a></h4>
               <p>Notre entreprise intervient aussi au niveau de la rénovation des infracstructures quelque soit leurs états.
                  Confiez votre travail entre des mains d'experts !</p>
@@ -246,7 +256,11 @@
         <div class="row" data-aos="zoom-in">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Pourquoi nous choisir ?</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>
+                Nous faisons preuve d'expertise dans le secteur du batiment et des
+                travaux publics depuis plus de 7 ans et ne cessons de gagner en expérience
+                avec les projets que nous confie nos partenaires de confiance.
+            </p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
           </div>
@@ -277,71 +291,71 @@
         <div class="row portfolio-container">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ asset('assets/img/engin1.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/engins/engin1.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Engin</h4>
               <p>Caterpilar</p>
-              <a href="{{ asset('assets/img/engin1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Caterpilar"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/engins/engin1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Caterpilar"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('assets/img/chantier1.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/chantiers/chantier1.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Chantier</h4>
               <p>Construction de pont</p>
-              <a href="{{ asset('assets/img/chantier1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Construction de pont"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/chantiers/chantier1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Construction de pont"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="{{ asset('assets/img/plan1.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/finitions/plan1.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Finition</h4>
               <p>Plan</p>
-              <a href="{{ asset('assets/img/plan1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Plan"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/finitions/plan1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Plan"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="{{ asset('assets/img/travailleur1.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/finitions/travailleur1.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Finition</h4>
               <p>Travailleur</p>
-              <a href="{{ asset('assets/img/travailleur1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Travailleur"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/finitions/travailleur1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Travailleur"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('assets/img/chantier2.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/chantiers/chantier2.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Chantier</h4>
               <p>Structure immobilière</p>
-              <a href="{{ asset('assets/img/chantier2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Structure immobilière"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/chantiers/chantier2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Structure immobilière"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ asset('assets/img/engin2.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/engins/engin2.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Engin</h4>
               <p>Pelleteuse</p>
-              <a href="{{ asset('assets/img/engin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Pelleteuse"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/engins/engin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Pelleteuse"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('assets/img/chantier3.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/chantier/chantier3.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Chantier</h4>
               <p>Terrain plat</p>
-              <a href="{{ asset('assets/img/chantier3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Terrain plat"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/chantier/chantier3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Terrain plat"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -364,7 +378,7 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('Anyar/assets/img/avatar.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>FOFANA Fode Amadou</h4>
                 <span>Manager</span>
@@ -381,10 +395,10 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-2.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('Anyar/assets/img/avatar.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>FOFANA Thierno Madiou</h4>
-                <span>Product Manager</span>
+                <span>Actionnaire</span>
                 <!--<p>Aut maiores voluptates amet et quis praesentium qui senda para</p>-->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
@@ -398,10 +412,10 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('Anyar/assets/img/team/team-3.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('Anyar/assets/img/avatar.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>FOFANA Nagnalen</h4>
-                <span>CTO</span>
+                <span>Actionnaire</span>
                 <!--<p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>-->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
@@ -443,7 +457,7 @@
                 <li>Bétonnières</li>-->
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Demande</a>
+                <a href="#contact" class="btn-buy">Demande</a>
               </div>
             </div>
           </div>
@@ -456,7 +470,7 @@
                 <li>Service avec une demande en hausse au vu de tous le matériel à transporter sur les chantiers.</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Demande</a>
+                <a href="#contact" class="btn-buy">Demande</a>
               </div>
             </div>
           </div>
@@ -469,7 +483,7 @@
                 <li>Nous recevons également de nombreuses demandes de réhabilitation des structures.</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Demande</a>
+                <a href="#contact" class="btn-buy">Demande</a>
               </div>
             </div>
           </div>
