@@ -638,6 +638,17 @@ section {
     font-style: italic;
 }
 
+.value {
+    font-size: 20px;
+    display: block;
+    color: #f6b024;
+}
+
+.value4 {
+    font-weight: bold;
+    color: rgb(251, 9, 9);
+}
+
 
 /*--------------------------------------------------------------
 # Icon Boxes

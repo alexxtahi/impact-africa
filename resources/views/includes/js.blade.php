@@ -8,3 +8,5 @@
 
 <!-- Template Main JS File -->
 <script src="{{ asset('Anyar/assets/js/main.js') }}"></script>
+
+<script src="{{ asset('assets/custom-animation.js') }}"></script>

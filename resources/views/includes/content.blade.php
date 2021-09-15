@@ -8,9 +8,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4 class="title"><a href="">Parteniare</a></h4>
-                <p class="description">
-                  5
-                </p>
+              <div  class="value" akhi="7">0</div>
             </div>
           </div>
 
@@ -18,9 +16,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">Clients satisfaits</a></h4>
-              <p class="description">
-                20
-              </p>
+              <div class="value" akhi="20">0</div>
             </div>
           </div>
 
@@ -28,9 +24,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4 class="title"><a href="">Projet menés</a></h4>
-              <p class="description">
-                20
-              </p>
+              <div class="value" akhi="20">0</div>
             </div>
           </div>
 
@@ -38,7 +32,9 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-layer"></i></div>
               <h4 class="title"><a href="">Projet en cours</a></h4>
-              <p class="description">5</p>
+              <div class="value" akhi="5">0</div>
+              
+              
             </div>
           </div>
   
@@ -180,13 +176,7 @@
         </div>
 
         <div class="row">
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box">
-              <i class="bi bi-card-checklist"></i>
-              <h4><a href="#">Mines et travaux de la terre</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
+
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <i class="bi bi-bar-chart"></i>
@@ -198,6 +188,8 @@
               </p>
             </div>
           </div>
+
+
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <i class="bi bi-binoculars"></i>
@@ -209,6 +201,8 @@
               </p>
             </div>
           </div>
+
+
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <i class="bi bi-brightness-high"></i>
@@ -217,6 +211,8 @@
                 Nos voiries se distingue par la qualité des materiaux utilisés.</p>
             </div>
           </div>
+
+
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <i class="bi bi-calendar4-week"></i>
@@ -225,15 +221,8 @@
                 Nous avons une large palette de savoir faire en matière d'étude de conception et de construction.
                 Decouvrez notre expertise et notre devis concurrentiels</p>
             </div>
-          </div>
-          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
-            <div class="icon-box">
-              <i class="bi bi-briefcase"></i>
-              <h4><a href="#">Réhabilitation des batiments et des voiries</a></h4>
-              <p>Notre entreprise intervient aussi au niveau de la rénovation des infracstructures quelque soit leurs états.
-                 Confiez votre travail entre des mains d'experts !</p>
-            </div>
-          </div>
+          </div>     
+        
         </div>
 
       </div>
@@ -246,7 +235,17 @@
         <div class="row" data-aos="zoom-in">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Pourquoi nous choisir ?</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>
+              La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens, 
+              du secteur privé et du gouvernement ; en mettant l’accent sur la qualité du travail,
+               le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts.
+               A cause de son professionnalisme, de son expertise, de son expérience et de son intégrité, 
+               Impact Africa a la réputation d’être non seulement une société fiable mais aussi et surtout un partenaire de choix. 
+               Avec plus de deux (2) décennies d’expérience dans le domaine de la construction en République de Guinée,
+                Impact Africa est en mesure de s’exporter en dehors des frontières Guinéennes.
+
+
+            </p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
           </div>
@@ -443,7 +442,7 @@
                 <li>Bétonnières</li>-->
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Demande</a>
+                <a href="#" class="btn-buy">Faire une demande</a>
               </div>
             </div>
           </div>
@@ -456,7 +455,7 @@
                 <li>Service avec une demande en hausse au vu de tous le matériel à transporter sur les chantiers.</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Demande</a>
+                <a href="#" class="btn-buy">Faire une demande</a>
               </div>
             </div>
           </div>
@@ -469,7 +468,7 @@
                 <li>Nous recevons également de nombreuses demandes de réhabilitation des structures.</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Demande</a>
+                <a href="#" class="btn-buy">Faire une Demande</a>
               </div>
             </div>
           </div>

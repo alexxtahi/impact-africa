@@ -11,7 +11,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Acceuil</a></li>
           <li><a class="nav-link scrollto" href="#about">A propos </a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Réalisations</a></li>
           <li><a class="nav-link scrollto" href="#team">Direction</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Plus demandés</a></li>
           <li><a href="blog.html">Blog</a></li>
