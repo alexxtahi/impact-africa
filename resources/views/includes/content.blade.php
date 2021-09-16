@@ -84,7 +84,7 @@
               L’idée et la motivation derrière la création de l’entreprise ayant été de participer positivement
               au développement de l’Afrique en général et de la Guinée en particulier. D’où son nom.
             </p>
-            <a href="#" class="btn-learn-more">En savoir plus</a>
+            <a href="{{ route('about') }}" class="btn-learn-more">En savoir plus</a>
           </div>
 
         </div>
@@ -189,7 +189,7 @@
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
-              <i class="bi bi-layers-half"></i>
+              <i class="bi bi-layers"></i>
               <h4><a href="#">Mines et travaux de la terre</a></h4>
               <p>
                   Nous comptons dans nos rang des experts dans le domaine des mines et du travail
@@ -351,11 +351,31 @@
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ asset('assets/img/chantier/chantier3.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('assets/img/chantiers/chantier3.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Chantier</h4>
               <p>Terrain plat</p>
-              <a href="{{ asset('assets/img/chantier/chantier3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Terrain plat"><i class="bx bx-plus"></i></a>
+              <a href="{{ asset('assets/img/chantiers/chantier3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Terrain plat"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="{{ asset('assets/img/chantiers/chantier4.jpg') }}" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Chantier</h4>
+              <p>Cité</p>
+              <a href="{{ asset('assets/img/chantiers/chantier4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cité"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <img src="{{ asset('assets/img/engins/engin3.jpg') }}" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Engin</h4>
+              <p>Camion de chargement</p>
+              <a href="{{ asset('assets/img/engins/engin3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Camion de chargement"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>

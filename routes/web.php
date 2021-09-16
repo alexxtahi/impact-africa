@@ -18,4 +18,4 @@ Route::get('/', function () {
 });
 
 // return about view
-Route::view('/about', 'about');
+Route::view('/about', 'about')->name('about');

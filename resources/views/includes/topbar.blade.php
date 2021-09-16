@@ -6,7 +6,11 @@
         <i class="bi bi-phone-fill phone-icon"></i> +224 628-24-59-59 / 622-22-22-72
       </div>
       <div class="cta d-none d-md-block">
-        <a href="#about" class="scrollto">Découvrir</a>
+        @if ($view_name === 'home')
+            <a href="#about" class="scrollto">Découvrir</a>
+        @else
+            <a href="#contact" class="scrollto">Nous contacter</a>
+        @endif
       </div>
     </div>
   </div>

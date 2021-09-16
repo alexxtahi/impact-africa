@@ -1,4 +1,3 @@
-
 <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center ">
     <div class="container d-flex align-items-center justify-content-between">
@@ -9,13 +8,21 @@
 
       <nav id="navbar" class="navbar">
         <ul>
+        @if ($view_name === 'home')
           <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
+        @else
+          <li><a class="nav-link scrollto active" href="{{ url('/') }}">Accueil</a></li>
+        @endif
+        @if ($view_name === 'home')
           <li><a class="nav-link scrollto" href="#about">A propos</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+        @endif
           <li><a class="nav-link scrollto" href="#team">Direction</a></li>
+        @if ($view_name === 'home')
           <li><a class="nav-link scrollto" href="#pricing">Plus demandés</a></li>
-          <li><a href="blog.html">Blog</a></li>
+          <li><a href="#faq">F.A.Q</a></li>
+        @endif
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -23,3 +30,4 @@
 
     </div>
   </header><!-- End Header -->
+
