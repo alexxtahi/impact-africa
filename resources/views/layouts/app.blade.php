@@ -23,15 +23,20 @@
 <body>
 
   <!-- Top Bar -->
-  @include('includes.topbar')
+    @if ($view_name === 'home')
+        @include('includes.topbar')
+    @endif
 
   <!-- Header -->
   @include('includes.header')
 
   <!-- Hero -->
-  @include('layouts.hero')
+    @if ($view_name === 'home')
+        @include('layouts.hero')
+    @endif
 
-  <main id="main"><!-- #main -->
+    <!-- #main -->
+  <main id="main">
 
     @yield('content')
 

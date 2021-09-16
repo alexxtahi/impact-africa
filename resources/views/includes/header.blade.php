@@ -1,5 +1,9 @@
 <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center ">
+@if ($view_name === 'about')
+  <header id="header" class="fixed-top d-flex align-items-center custom-fixed-header">
+@else
+  <header id="header" class="fixed-top d-flex align-items-center">
+@endif
     <div class="container d-flex align-items-center justify-content-between">
 
       <h1 class="logo"><a href="{{ url('/') }}">Impact Africa</a></h1>
@@ -13,8 +17,8 @@
         @else
           <li><a class="nav-link scrollto active" href="{{ url('/') }}">Accueil</a></li>
         @endif
-        @if ($view_name === 'home')
           <li><a class="nav-link scrollto" href="#about">A propos</a></li>
+        @if ($view_name === 'home')
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
         @endif

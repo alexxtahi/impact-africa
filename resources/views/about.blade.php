@@ -6,13 +6,38 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-            <h2>A propos de nous</h2>
-            <p>
+            <img class="about-logo" src="{{ asset('assets/img/logo/logo-impact-afrique.png') }}" alt="Logo d'Impact Africa">
+            <h2>IMPACT AFRICA</h2>
+            <p class="about-infos">
                 IMPACT AFRICA SARL est une entreprise générale évoluant dans les domaines de la construction
                 et des travaux publics. Elle est enregistrée et basée en République de Guinée.
                 La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens,
                 qu'au niveau du secteur privé et du gouvernement ; En mettant l’accent sur la qualité du travail,
                 le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts.
+                <br><br>
+                <strong>Historique</strong>
+                <br>
+                L’idée et la motivation derrière la création de l’entreprise ayant été de participer positivement
+                au développement de l’Afrique en général et de la Guinée en particulier. D’où son nom.
+                Elle a été créée en 2009 en tant qu'entreprise individuelle
+                et sous le numéro d'enregistrement <strong>RCCM/GC-KAL/025.747A/2009</strong>.
+                Elle est devenue une société à responsabilité limitée
+                en 2011 avec trois actionnaires et sous le numéro
+                d'enregistrement <strong>RCCM/GC-KAL-M2/036.896/2011</strong>.
+                Elle est enregistrée auprès de l'autorité fiscale sous le numéro
+                <strong>570428623</strong> avec le numéro de TVA <strong>7G</strong>
+                et auprès de l'autorité de sécurité sociale sous le numéro <strong>12-31-06668</strong>.
+                <br><br>
+                <strong>Emplacement</strong>
+                <br>
+                L'entreprise opère principalement depuis son site de Siguiri,
+                même si elle est à la recherche d'autres opportunités dans
+                toutes les régions du pays. Il est vrai que Siguiri est un
+                endroit éloigné de la capitale Conakry. Mais il est au cœur
+                de l'industrie minière aurifère et non loin du district
+                diamantifère de Guinée (Banankoro). La priorité est de
+                consolider sa position à Siguiri, après quoi, elle cherchera
+                à s'étendre à d'autres régions du pays.
             </p>
         </div>
 

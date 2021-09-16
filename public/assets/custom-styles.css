@@ -49,3 +49,21 @@
     background-size: cover !important;
     background-image: url("/Anyar/assets/img/c5.jpg") !important;
 }
+
+.custom-fixed-header {
+    /*position: fixed;*/
+    top: 0 !important;
+    background: rgba(5, 87, 158, 0.9) !important;
+}
+
+.about-logo {
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+
+.about-infos {
+    font-style: normal !important;
+    text-align: justify !important;
+}
