@@ -24,24 +24,24 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Liens utiles</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Accueil</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">A propos</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Porfolio</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Termes des services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Police de confidentialité</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/') }}">Accueil</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">A propos</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#services' }}">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#portfolio' }}">Porfolio</a></li>
+              <!--<li><i class="bx bx-chevron-right"></i> <a href="#">Termes des services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Police de confidentialité</a></li>-->
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Nos Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Mines et travaux de la terre</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Location de matériel</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Transport et Logistique</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Construction des routes</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Construction génie-civil</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Réhabilitation</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>Mines et travaux de la terre</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>Location de matériel</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>Transport et Logistique</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>Construction des routes</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>Construction génie-civil</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>Réhabilitation</a></li>
             </ul>
           </div>
 
