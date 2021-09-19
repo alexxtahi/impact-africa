@@ -27,7 +27,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/') }}">Accueil</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#about">A propos</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#services' }}">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#portfolio' }}">Porfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#portfolio' }}">Nos réalisations</a></li>
               <!--<li><i class="bx bx-chevron-right"></i> <a href="#">Termes des services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Police de confidentialité</a></li>-->
             </ul>
@@ -50,7 +50,7 @@
             <p>
               Tanéné marché, Commune de Matoto<br>
               B.P. 2411 CONAKRY, République de Guinée<br>
-              <strong>Téléphone:</strong> (+224) 622-22-22-722<br>(+224) 628-24-59-59<br>(+224) 631-13-06-00<br>
+              <strong>Téléphone:</strong> (+224) 622-22-22-722<br>(+224) 628-24-59-59<br>(+225) 631-13-06-00<br>(+225) 629-93-47-47<br>
               <strong>E-mail:</strong> impactafrica@hotmail.com<br>impactafrica09@gmail.com
             </p>
 

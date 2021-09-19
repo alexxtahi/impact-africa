@@ -9,7 +9,7 @@
               <div class="icon"><i class="bx bx-building"></i></div>
               <h4 class="title"><a href="">Partenaires</a></h4>
                 <p class="description">
-                  Ayant remarqué notre expertise, ces <strong>5</strong> partenaires que nous avons
+                  Ayant remarqué notre expertise, plusieurspartenaires avec qui nous travaillons
                   n'ont pas hésité à nous contacter pour s'associer à nous.
                 </p>
             </div>
@@ -21,7 +21,7 @@
               <h4 class="title"><a href="">Clients satisfaits</a></h4>
               <p class="description">
                 Ils nous ont fait confiance et n'ont pas été déçu,
-                ils sont <strong>20</strong> à avoir été satisfait par la qualité du
+                ils sont nombreux à avoir été satisfait par la qualité du
                 travail de nos équipes.
               </p>
             </div>
@@ -32,8 +32,8 @@
               <div class="icon"><i class="bx bx-box"></i></div>
               <h4 class="title"><a href="">Projet menés</a></h4>
               <p class="description">
-                Nous comptons un total de <strong>20</strong> sur lesquels nos équipes
-                ont traviller dur jusqu'au résultat final.
+                Nous comptons plus de 20 projets sur lesquels nos équipes
+                ont travillés dur jusqu'au résultat final.
               </p>
             </div>
           </div>
@@ -43,8 +43,8 @@
               <div class="icon"><i class="bx bx-layer"></i></div>
               <h4 class="title"><a href="">Projet en cours</a></h4>
               <p class="description">
-                  Nous avons à notre actif <strong>5</strong> projets sur lesquels nos équipes
-                  continuent de travailler durent dans le but d'avoir une finition parfaite.
+                  Nous avons à notre actif plusieurs projets sur lesquels nos équipes
+                  continuent de travailler dur dans le but d'avoir une finition parfaite.
                 </p>
             </div>
           </div>
@@ -150,7 +150,7 @@
                   <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Nos expériences<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                      Depuis 2013, construction et maintenance de routes miniers au compte de la société AngloGold Ashanti, Mine de Siguiri.<br>
+                      Depuis 2009, construction et maintenance de routes miniers au compte de la société AngloGold Ashanti, Mine de Siguiri.<br>
                       De 2018 à nos jours, construction de la base de groupement des forces spéciales de Guinée.<br>
                       En 2020, travaux construction d’extension et de rénovation de la base avancée du Groupement forces spéciales de la Guinée à Conakry et bien d'autre...
                     </p>
@@ -190,7 +190,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <i class="bi bi-layers"></i>
-              <h4><a href="#">Mines et travaux de la terre</a></h4>
+              <h4 style="color:#05579e ;">Mines et travaux de la terre</h4>
               <p>
                   Nous comptons dans nos rang des experts dans le domaine des mines et du travail
                   de la terre que nous sommes prêts à mettre à votre service.
@@ -200,7 +200,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <i class="bi bi-briefcase"></i>
-              <h4><a href="#">Location de matériel</a></h4>
+              <h4 style="color:#05579e ;">Location de matériel</h4>
               <p>
                 Nous vous proposons une série de machines modernes et bien entretenues, de grandes marques
                 internationales nécessaires aux travaux de terrassement,
@@ -211,7 +211,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <i class="bi bi-box-seam"></i>
-              <h4><a href="#">Transport et Logistique</a></h4>
+              <h4 style="color:#05579e ;">Transport et Logistique</h4>
               <p>
                 Nous  vous proposons un service souple de transport routier national de cargaison,
                 avec des garanties de sécurité et de ponctualité. Grâce à nos solutions, vous pouvez réaliser des envois sur
@@ -222,7 +222,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <i class="bi bi-map"></i>
-              <h4><a href="#">Construction des routes</a></h4>
+              <h4 style="color:#05579e ;">Construction des routes</h4>
               <p>Nous sommes aussi spécialisé dans la construction d'infracstructure routière.
                 Nos voiries se distingue par la qualité des materiaux utilisés.</p>
             </div>
@@ -230,7 +230,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <i class="bi bi-bricks"></i>
-              <h4><a href="#">Construction génie-civil</a></h4>
+              <h4 style="color:#05579e ;">Construction génie-civil</h4>
               <p>Spécilaisés dans le génie-civil, nous disposons de plusieurs ingénieur expérimentés dans ce domaine.
                 Nous avons une large palette de savoir faire en matière d'étude de conception et de construction.
                 Decouvrez notre expertise et notre devis concurrentiels</p>
@@ -239,7 +239,7 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
               <i class="bi bi-capslock"></i>
-              <h4><a href="#">Réhabilitation des batiments et des voiries</a></h4>
+              <h4 style="color:#05579e ;">Réhabilitation des batiments et des voiries</h4>
               <p>Notre entreprise intervient aussi au niveau de la rénovation des infracstructures quelque soit leurs états.
                  Confiez votre travail entre des mains d'experts !</p>
             </div>
@@ -296,7 +296,6 @@
               <h4>Engin</h4>
               <p>Caterpilar</p>
               <a href="{{ asset('assets/img/engins/engin1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Caterpilar"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -306,7 +305,6 @@
               <h4>Chantier</h4>
               <p>Construction de pont</p>
               <a href="{{ asset('assets/img/chantiers/chantier1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Construction de pont"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -316,7 +314,6 @@
               <h4>Finition</h4>
               <p>Plan</p>
               <a href="{{ asset('assets/img/finitions/plan1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Plan"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -326,7 +323,6 @@
               <h4>Finition</h4>
               <p>Travailleur</p>
               <a href="{{ asset('assets/img/finitions/travailleur1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Travailleur"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -336,7 +332,6 @@
               <h4>Chantier</h4>
               <p>Structure immobilière</p>
               <a href="{{ asset('assets/img/chantiers/chantier2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Structure immobilière"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -346,7 +341,6 @@
               <h4>Engin</h4>
               <p>Pelleteuse</p>
               <a href="{{ asset('assets/img/engins/engin2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Pelleteuse"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -356,7 +350,6 @@
               <h4>Chantier</h4>
               <p>Terrain plat</p>
               <a href="{{ asset('assets/img/chantiers/chantier3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Terrain plat"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -366,7 +359,6 @@
               <h4>Chantier</h4>
               <p>Cité</p>
               <a href="{{ asset('assets/img/chantiers/chantier4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cité"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -376,7 +368,6 @@
               <h4>Engin</h4>
               <p>Camion de chargement</p>
               <a href="{{ asset('assets/img/engins/engin3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Camion de chargement"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
@@ -401,7 +392,7 @@
               <div class="pic"><img src="{{ asset('Anyar/assets/img/avatar.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>FOFANA Fode Amadou</h4>
-                <span>Manager</span>
+                <span>PDG</span>
                 <!--<p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>-->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
@@ -468,10 +459,10 @@
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <!--<span class="advanced">Plus demandé</span>-->
-              <h3>Location de matériel</h3>
+              <h3>Construction génie-civil</h3>
               <h4>60 <sup>%</sup></h4>
               <ul>
-                <li>La location de matériel est de plus en plus demandée sur le marché de la construction.</li>
+                <li>Nous sommes de plus en plus sollicités pour la construction d'infracstructure </li>
                 <!--<li>Camions (Trucks)</li>
                 <li>Véhicules de chantiers 4X4</li>
                 <li>Bétonnières</li>-->
@@ -484,10 +475,10 @@
 
           <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="box">
-              <h3>Transport et Logistique</h3>
-              <h4>25 <sup>%</sup></h4>
+              <h3>Réhabilitation</h3>
+              <h4>55 <sup>%</sup></h4>
               <ul>
-                <li>Service avec une demande en hausse au vu de tous le matériel à transporter sur les chantiers.</li>
+                <li>Nous recevons également de nombreuses demandes de réhabilitation des structures.</li>
               </ul>
               <div class="btn-wrap">
                 <a href="#contact" class="btn-buy">Demande</a>
@@ -497,10 +488,10 @@
 
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
-              <h3>Réhabilitation</h3>
-              <h4>15 <sup>%</sup></h4>
+              <h3>Mines et travaux de la terre</h3>
+              <h4>45 <sup>%</sup></h4>
               <ul>
-                <li>Nous recevons également de nombreuses demandes de réhabilitation des structures.</li>
+                <li> Service avec une demande en hausse au vu de tous les travaux éffectés avec brio.</li>
               </ul>
               <div class="btn-wrap">
                 <a href="#contact" class="btn-buy">Demande</a>
@@ -536,7 +527,7 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Combien d'années d'expérience avez-vous à votre actif ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                    Nous totalisons 7 ans d'expérience dans le domaine du BTP depuis 2013.
+                    Nous totalisons 7 ans d'expérience dans le domaine du BTP depuis 2009.
                 </p>
               </div>
             </li>
@@ -589,6 +580,7 @@
                 <h4>E-mail:</h4>
                 <p>impactafrica@hotmail.com</p>
                 <p>impactafrica09@gmail.com</p>
+                <p>impactafricaweb1@outlook.de</p>
               </div>
 
               <div class="phone">
