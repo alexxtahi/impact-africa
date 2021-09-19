@@ -50,8 +50,8 @@
             <p>
               Tanéné marché, Commune de Matoto<br>
               B.P. 2411 CONAKRY, République de Guinée<br>
-              <strong>Téléphone:</strong> (+224) 622-22-22-722<br>(+224) 628-24-59-59<br>(+225) 631-13-06-00<br>(+225) 629-93-47-47<br>
-              <strong>E-mail:</strong> impactafrica@hotmail.com<br>impactafrica09@gmail.com
+              <strong>Téléphone:</strong><br>(00224) 629-93-47-47<br>(00224) 629-93-48-48<br>
+              <strong>E-mail:</strong><br> impactafrica@hotmail.com<br>impactafrica09@gmail.com
             </p>
 
           </div>

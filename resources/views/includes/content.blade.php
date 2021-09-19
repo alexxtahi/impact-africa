@@ -9,7 +9,7 @@
               <div class="icon"><i class="bx bx-building"></i></div>
               <h4 class="title"><a href="">Partenaires</a></h4>
                 <p class="description">
-                  Ayant remarqué notre expertise, plusieurspartenaires avec qui nous travaillons
+                  Ayant remarqué notre expertise, plusieurs partenaires avec qui nous travaillons
                   n'ont pas hésité à nous contacter pour s'associer à nous.
                 </p>
             </div>
@@ -32,8 +32,8 @@
               <div class="icon"><i class="bx bx-box"></i></div>
               <h4 class="title"><a href="">Projet menés</a></h4>
               <p class="description">
-                Nous comptons plus de 20 projets sur lesquels nos équipes
-                ont travillés dur jusqu'au résultat final.
+                Nous comptons plus d'une cinquantaines projets sur lesquels nos équipes
+                ont travaillés dur jusqu'au résultat final.
               </p>
             </div>
           </div>
@@ -231,7 +231,7 @@
             <div class="icon-box">
               <i class="bi bi-bricks"></i>
               <h4 style="color:#05579e ;">Construction génie-civil</h4>
-              <p>Spécilaisés dans le génie-civil, nous disposons de plusieurs ingénieur expérimentés dans ce domaine.
+              <p>Spécialisés dans le génie-civil, nous disposons de plusieurs ingénieurs expérimentés dans ce domaine.
                 Nous avons une large palette de savoir faire en matière d'étude de conception et de construction.
                 Decouvrez notre expertise et notre devis concurrentiels</p>
             </div>
@@ -240,7 +240,7 @@
             <div class="icon-box">
               <i class="bi bi-capslock"></i>
               <h4 style="color:#05579e ;">Réhabilitation des batiments et des voiries</h4>
-              <p>Notre entreprise intervient aussi au niveau de la rénovation des infracstructures quelque soit leurs états.
+              <p>Notre entreprise intervient aussi au niveau de la rénovation des infrastructures quelque soit leurs états.
                  Confiez votre travail entre des mains d'experts !</p>
             </div>
           </div>
@@ -258,7 +258,7 @@
             <h3>Pourquoi nous choisir ?</h3>
             <p>
                 Nous faisons preuve d'expertise dans le secteur du batiment et des
-                travaux publics depuis plus de 7 ans et ne cessons de gagner en expérience
+                travaux publics depuis plus de 12 ans et ne cessons de gagner en expérience
                 avec les projets que nous confie nos partenaires de confiance.
             </p>
           </div>
@@ -460,25 +460,12 @@
             <div class="box">
               <!--<span class="advanced">Plus demandé</span>-->
               <h3>Construction génie-civil</h3>
-              <h4>60 <sup>%</sup></h4>
+              <h4>55 <sup>%</sup></h4>
               <ul>
                 <li>Nous sommes de plus en plus sollicités pour la construction d'infracstructure </li>
                 <!--<li>Camions (Trucks)</li>
                 <li>Véhicules de chantiers 4X4</li>
                 <li>Bétonnières</li>-->
-              </ul>
-              <div class="btn-wrap">
-                <a href="#contact" class="btn-buy">Demande</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="box">
-              <h3>Réhabilitation</h3>
-              <h4>55 <sup>%</sup></h4>
-              <ul>
-                <li>Nous recevons également de nombreuses demandes de réhabilitation des structures.</li>
               </ul>
               <div class="btn-wrap">
                 <a href="#contact" class="btn-buy">Demande</a>
@@ -527,7 +514,7 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Combien d'années d'expérience avez-vous à votre actif ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                    Nous totalisons 7 ans d'expérience dans le domaine du BTP depuis 2009.
+                    Nous totalisons 12 ans d'expérience dans le domaine du BTP depuis 2009.
                 </p>
               </div>
             </li>
@@ -586,9 +573,9 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Téléphone:</h4>
-                <p>(+224) 622-22-22-72</p>
-                <p>(+224) 628-24-59-59</p>
-                <p>(+224) 631-13-06-00</p>
+                <p>(00224) 629-93-47-47</p>
+                <p>(00224) 629-93-48-48</p>
+
               </div>
 
             </div>
