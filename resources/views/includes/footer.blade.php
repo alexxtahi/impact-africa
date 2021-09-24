@@ -5,12 +5,12 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-            <h4>Notre Newsletter</h4>
-            <p>Renseignez votre adresse mail pour vous abonner à notre newsletter.</p>
+            <h4>@lang('public.newsletter')</h4>
+            <p>@lang('public.newsletter-message')</p>
           </div>
           <div class="col-lg-6">
             <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Souscrire">
+              <input type="email" name="email"><input type="submit" value=@lang('public.souscrire')>
             </form>
           </div>
         </div>
@@ -22,43 +22,43 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Liens utiles</h4>
+            <h4>@lang('public.liens')</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/') }}">Accueil</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">A propos</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/') }}">@lang('public.Acceuil')</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">@lang('public.Apropos')</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#services' }}">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#portfolio' }}">Nos réalisations</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="{{ url('/').'#portfolio' }}">@lang('public.Réalisations')</a></li>
               <!--<li><i class="bx bx-chevron-right"></i> <a href="#">Termes des services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Police de confidentialité</a></li>-->
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Nos Services</h4>
+            <h4>@lang('public.nservies')</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a>Mines et travaux de la terre</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Location de matériel</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Transport et Logistique</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Construction des routes</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Construction génie-civil</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a>Réhabilitation</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>@lang('public.activite1')</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>@lang('public.activite2')</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>@lang('public.activite3')</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>@lang('public.activite4')</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>@lang('public.activite5')</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a>@lang('public.activite6')</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Nos contacts</h4>
+            <h4>@lang('public.page9-title')</h4>
             <p>
-              Tanéné marché, Commune de Matoto<br>
-              B.P. 2411 CONAKRY, République de Guinée<br>
-              <strong>Téléphone:</strong><br>(00224) 629-93-47-47<br>(00224) 629-93-48-48<br>
+              @lang('public.text-adress')<br>
+              B.P. 2411 CONAKRY, @lang('public.countries')<br>
+              <strong>@lang('public.tel')</strong><br>(00224) 629-93-47-47<br>(00224) 629-93-48-48<br>
               <strong>E-mail:</strong><br> impactafrica@hotmail.com<br>impactafrica09@gmail.com
             </p>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>A propos d'Impact Africa</h3>
-            <p>Nous sommes une société privée à responsabilité limitée, enregistrée en Guinée, sans structure mère ou étrangère.</p>
+            <h3>@lang('public.about-impact')</h3>
+            <p>@lang('public.text-impact')</p>
             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

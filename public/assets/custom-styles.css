@@ -1,3 +1,4 @@
+@import '~flag-icon-css/sass/flag-icon.scss';
 .service-bottom {
     margin-top: 15px !important;
 }
@@ -5,6 +6,19 @@
 .footer-top {
     padding-top: 47px !important;
     padding-bottom: 0 !important;
+}
+
+.imgb {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.pos {
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+.pos-language1 {
+    margin-left: 25px;
 }
 
 .most-demand-div {
@@ -22,27 +36,21 @@
     0% {
         background: url("/Anyar/assets/img/c4.jpg") top center;
     }
-
     20% {
         background: url("/Anyar/assets/img/c3.jpg") top center;
     }
-
     40% {
         background: url("/Anyar/assets/img/c2.jpg") top center;
     }
-
     60% {
         background: url("/Anyar/assets/img/c1.jpg") top center;
     }
-
     60% {
         background: url("/Anyar/assets/img/cta-bg.jpg") top center;
     }
-
     100% {
         background: url("/Anyar/assets/img/c4.jpg") top center;
     }
-
 }
 
 .why-us-img {

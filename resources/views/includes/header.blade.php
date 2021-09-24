@@ -12,26 +12,46 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-        @if ($view_name === 'home')
-          <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
-        @else
-          <li><a class="nav-link scrollto active" href="{{ url('/') }}">Accueil</a></li>
-        @endif
-          <li><a class="nav-link scrollto" href="#about">A propos</a></li>
-        @if ($view_name === 'home')
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-        @endif
-          <li><a class="nav-link scrollto" href="#team">Direction</a></li>
-        @if ($view_name === 'home')
-          <li><a class="nav-link scrollto" href="#pricing">Plus demandés</a></li>
-          <li><a href="#faq">F.A.Q</a></li>
-        @endif
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-        </ul>
+              @if ($view_name === 'home')
+                <li><a class="nav-link scrollto active" href="#hero">@lang('public.Acceuil')</a></li>
+              @else
+                <li><a class="nav-link scrollto active" href="{{ url('/') }}">Acceuil</a></li>
+              @endif
+                <li><a class="nav-link scrollto" href="#about">@lang('public.Apropos')</a></li>
+              @if ($view_name === 'home')
+                <li><a class="nav-link scrollto" href="#services">@lang('public.Services')</a></li>
+                <li><a class="nav-link scrollto " href="#portfolio">@lang('public.Réalisations')</a></li>
+              @endif
+
+              @if ($view_name === 'home')
+                <li><a class="nav-link scrollto" href="#pricing">@lang('public.Plus-démandés')</a></li>
+                <li><a href="#faq">F.A.Q</a></li>
+              @endif
+                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+
+                <li class=" nav-item dropdown ">
+                      <a  href="#" class= "nav-link dropdown-toggle" data-toggle="dropdown"  >
+                      @lang('public.language')
+                      </a>
+
+                     <div class="dropdown-menu" >
+                      <a class="dropdown-item text-dark"  href="locale/en"> English <img src="{{ asset('assets/img/logo/flag-1.jpg') }}" alt=""></a>
+                      <a class="dropdown-item text-dark" href="locale/fr"> Francais <img src="{{ asset('assets/img/logo/flag-2.jpg') }}" alt=""></a>
+                     </div>
+                  </li>
+         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
     </div>
   </header><!-- End Header -->
+
+
+
+
+
+
+
+
+
 
