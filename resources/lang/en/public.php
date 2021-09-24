@@ -7,7 +7,7 @@ return[
     'Apropos'   =>   'About' ,
     'Services'   =>   'Services' ,
     'Réalisations'   =>   'Achievements' ,
-    'Plus-démandés'   =>   'More requested' ,
+    'Plus-démandés'   =>   'Most requested' ,
     'F.A.Q'   =>   'F.A.Q' ,
     'Contact'   =>   'Contact' ,
 
@@ -225,7 +225,7 @@ return[
 
      // -------------------- pages services ------------------------
 
-     'nservies' => 'Nos services',
+     'nservies' => 'Our services',
 
     'activite1' => "Mining and earthworks",
     'sujet1' => "We have in our ranks experts in the field of
@@ -266,16 +266,56 @@ return[
 
 
 
+    'auteur' => "Copyright",
+    'reserve' => "All Rights Reserved",
+    'design' => "Designed by",
+
+
+
+
+    'about-page' =>"    IMPACT AFRICA SARL is a general company operating in the fields of construction
+                            and public works. It is registered and based in the Republic of Guinea. The company
+                            has built a solid reputation both at the level of Guinean individuals, private sector and
+                            the government; by focusing on the quality of work, By focusing on quality of work,
+                            respect of deadlines and customer specifications as well as cost effectiveness.",
+
+    'about-page1' => " The idea and motivation behind the creation of the company was to participate
+                                positively in the development in the development of Africa in general and Guinea
+                                in particular. Hence its name. It was created in 2009 as an individual company and
+                                under the registration number.",
+
+
+    'about-page2' => "RCCM/GC-KAL/025.747A/2009",
+
+    'about-page3' =>"It became a limited liability company in 2011 with three shareholders and under
+                                the registration number",
+
+    'about-page4' =>"RCCM/GC-KAL-M2/036.896/2011",
+
+    'about-page5' =>"It is registered with the tax authority under the number",
+
+    'about-page6' =>"570428623",
+
+    'about-page7' =>" with the VAT number",
+
+    'about-page8' =>"7G",
+
+    'about-page9' =>"and with the social security authority under the number",
+
+    'about-page10' => "12-31-06668",
+
+    'about-page11' =>"Location",
+
+    'about-page12' =>"  The company operates mainly from its site in Siguiri, although it is looking for
+    other opportunities in all regions of the country. in all regions of the country. It is true that Siguiri is a
+    place far from the capital Conakry. But it is at the heart of the gold mining industry and not far from the
+    diamond district of Guinea (Banankoro). The priority is to consolidate its position in Siguiri, after which
+    it will seek to to expand to other regions of the country.",
 
 
 
 
 
-
-
-
-    '
-    '
 
 
 ]

@@ -16,12 +16,6 @@ return[
 
 
 
-
-
-
-
-
-
     "bienvenue-title" =>    "Bienvenue  sur la page officielle d'ImpactAfrica",
 
     "bienvenue" =>    "Impact Africa est une société privée à responsabilité limitée,
@@ -191,7 +185,7 @@ return[
 
     'page6-title' => 'Nos réalisations',
 
-    'img-title1' => 'Tout',
+    'img1-title1' => 'Tout',
 
     'img2-title1' => 'Chantiers',
 
@@ -216,7 +210,7 @@ return[
     'page7-stitle' => "Nous recevons fréquement des demandes pour les services suivants",
 
 
-    'button-demand' => 'demande',
+    'demand-button' => 'demande',
 
 
     'demand1-title' => "Construction génie-civil",
@@ -317,7 +311,10 @@ return[
 
     // -------------------- pages services ------------------------
 
-    'nservies' => 'Our services',
+    'nservies' => 'Nos services',
+
+    'auteur' => "Droits d'auteur",
+    'reserve' => "Tous droits réservés",
 
     'activite1' => "Mines et travaux de la terre",
     'sujet1' => " Nous comptons dans nos rang des experts dans le domaine des mines et du travail
@@ -350,8 +347,56 @@ return[
                         quelque soit leurs états. Confiez votre travail entre des mains d'experts !",
 
 
+    'design' => "Conçu par",
 
 
+
+
+    // ------------------ page about -------------------
+
+
+    'about-page' =>"IMPACT AFRICA SARL est une entreprise générale évoluant dans les domaines de la construction
+                            et des travaux publics. Elle est enregistrée et basée en République de Guinée.
+                            La société s’est forgée une solide réputation aussi bien au niveau des particuliers Guinéens,
+                            qu'au niveau du secteur privé et du gouvernement ; En mettant l’accent sur la qualité du travail,
+                            le respect des délais et des spécifications des clients ainsi que la rentabilité des coûts.",
+
+    'about-page1' =>  "L’idée et la motivation derrière la création de l’entreprise ayant été de participer positivement
+                                au développement de l’Afrique en général et de la Guinée en particulier. D’où son nom.
+                                Elle a été créée en 2009 en tant qu'entreprise individuelle
+                                et sous le numéro d'enregistrement.",
+
+    'about-page2' => "RCCM/GC-KAL/025.747A/2009",
+
+
+    'about-page3' =>"Elle est devenue une société à responsabilité limitée
+                                en 2011 avec trois actionnaires et sous le numéro d'enregistrement ",
+
+    'about-page4' =>"RCCM/GC-KAL-M2/036.896/2011",
+
+    'about-page5' =>"Elle est enregistrée auprès de l'autorité fiscale sous le numéro",
+
+    'about-page6' =>"570428623",
+
+    'about-page7' =>" avec le numéro de TVA",
+
+    'about-page8' =>"7G",
+
+    'about-page9' =>"et auprès de l'autorité de sécurité sociale sous le numéro",
+
+    'about-page10' => "12-31-06668",
+
+    'about-page11' =>"Emplacement",
+
+    'about-page12' =>"L'entreprise opère principalement depuis son site de Siguiri,
+                                même si elle est à la recherche d'autres opportunités dans
+                                toutes les régions du pays. Il est vrai que Siguiri est un
+                                endroit éloigné de la capitale Conakry. Mais il est au cœur
+                                de l'industrie minière aurifère et non loin du district
+                                diamantifère de Guinée (Banankoro). La priorité est de
+                                consolider sa position à Siguiri, après quoi, elle cherchera
+                                à s'étendre à d'autres régions du pays.
+",
 
 ]
 
