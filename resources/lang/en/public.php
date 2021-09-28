@@ -50,7 +50,7 @@ return[
 
 
 
-    'Partenaire-title' => "Partenaires",
+    'Partenaire-title' => "Partners",
 
     'Partenaire' =>"Having noticed our expertise, several partners with
                         whom we work did not hesitate to contact us to join us. ",
