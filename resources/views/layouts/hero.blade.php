@@ -5,39 +5,37 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Bienvenue sur la page officielle d'<span>Impact Africa</span></h2>
+          <h2 class="animate__animated animate__fadeInDown">@lang('public.bienvenue-title')</h2>
           <p class="animate__animated animate__fadeInUp">
-                Impact Africa est une société privée à responsabilité limitée,
-                enregistrée en Guinée, sans structure mère ou étrangère.
+
+            @lang('public.bienvenue')
+
             </p>
-          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">En savoir plus</a>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">@lang('public.button')</a>
         </div>
       </div>
 
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Atouts</h2>
+          <h2 class="animate__animated animate__fadeInDown">@lang('public.atouts-title')</h2>
           <p class="animate__animated animate__fadeInUp">
-              Une main-d'œuvre qualifiée, compétente et consciente de ses
-              responsabilités car soumise à un test de recrutement très
-              rigoureux et formée aux exigences de santé, de sécurité et
-              de protection de l'environnement.
+              @lang('public.atouts')
             </p>
-          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">En savoir plus</a>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">@lang('public.button')</a>
         </div>
       </div>
 
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Objectifs</h2>
+          <h2 class="animate__animated animate__fadeInDown">@lang('public.objectif-title')</h2>
           <p class="animate__animated animate__fadeInUp">
-              Notre objectif premier est de figurer parmi les leaders dans notre
-              domaine et d'être cité en exemple comme une entreprise qui crée
-              de la valeur ajoutée pour elle-même et pour ses partenaires.
+
+            @lang('public.objectif')
+
           </p>
-          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">En savoir plus</a>
+          <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">@lang('public.button')</a>
         </div>
       </div>
 

@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{ asset('Anyar/assets/img/favicon.png') }}" rel="icon">
-  <link href="{{ asset('Anyar/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+  <link href="{{ asset('favicon.ico') }}" rel="icon">
+  <link href="{{ asset('favicon.ico') }}" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -23,15 +23,20 @@
 <body>
 
   <!-- Top Bar -->
-  @include('includes.topbar')
+    @if ($view_name === 'home')
+        @include('includes.topbar')
+    @endif
 
   <!-- Header -->
   @include('includes.header')
 
   <!-- Hero -->
-  @include('layouts.hero')
+    @if ($view_name === 'home')
+        @include('layouts.hero')
+    @endif
 
-  <main id="main"><!-- #main -->
+    <!-- #main -->
+  <main id="main">
 
     @yield('content')
 
