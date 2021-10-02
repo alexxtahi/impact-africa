@@ -38,20 +38,6 @@ return[
 
     'button' => 'En savoir plus',
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     // description des points forts de l'entreprises
 
 

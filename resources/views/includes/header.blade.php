@@ -21,9 +21,6 @@
               @if ($view_name === 'home')
                 <li><a class="nav-link scrollto" href="#services">@lang('public.Services')</a></li>
                 <li><a class="nav-link scrollto " href="#portfolio">@lang('public.Réalisations')</a></li>
-              @endif
-
-              @if ($view_name === 'home')
                 <li><a class="nav-link scrollto" href="#pricing">@lang('public.Plus-démandés')</a></li>
                 <li><a href="#faq">F.A.Q</a></li>
               @endif
@@ -35,7 +32,7 @@
                       </a>
 
                      <div class="dropdown-menu" >
-                      <a class="dropdown-item text-dark"  href="locale/en"> English <img src="{{ asset('assets/img/logo/flag-1.jpg') }}" alt=""></a>
+                      <a class="dropdown-item text-dark" href="locale/en"> English <img src="{{ asset('assets/img/logo/flag-1.jpg') }}" alt=""></a>
                       <a class="dropdown-item text-dark" href="locale/fr"> Francais <img src="{{ asset('assets/img/logo/flag-2.jpg') }}" alt=""></a>
                      </div>
                   </li>
