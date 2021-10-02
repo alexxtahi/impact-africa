@@ -465,7 +465,7 @@
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img class="img-team" src="{{ asset('assets/img/engins/team-56.png') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img class="img-fluid img-team" src="{{ asset('assets/img/engins/team-56.png') }}" alt=""></div>
               <div class="member-info">
                 <h4>Idrissa Diaby</h4>
                 <span>@lang('public.directeur-g')</span>
@@ -481,7 +481,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img class="img-team" src="{{ asset('assets/img/engins/lanfia.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img class="img-fluid img-team" src="{{ asset('assets/img/engins/lanfia.jpg') }}" alt=""></div>
               <div class="member-info">
                 <h4>Lanfia sano</h4>
                 <span>@lang('public.directeur-a')</span>
@@ -497,7 +497,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="300">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img class="img-team" src="{{ asset('assets/img/engins/kelefa.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img class="img-fluid img-team" src="{{ asset('assets/img/engins/kelefa.jpg') }}" alt=""></div>
               <div class="member-info">
                 <h4>Kelefa camara</h4>
                 <span>@lang('public.directeur-ach')</span>
@@ -513,7 +513,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="400">
               <div class="member d-flex align-items-start">
-                  <div class="pic"><img  src="{{ asset('assets/img/engins/saran1.jpg') }}" class="img-fluid" alt=""></div>
+                  <div class="pic"><img  class="img-fluid img-team" src="{{ asset('assets/img/engins/saran1.jpg') }}" alt=""></div>
                   <div class="member-info">
                       <h4>Saran fofana</h4>
                       <span>@lang('public.comptable')</span>

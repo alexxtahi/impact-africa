@@ -75,3 +75,13 @@
     font-style: normal !important;
     text-align: justify !important;
 }
+
+.img-team {
+    height: 180px !important;
+    width: 180px !important;
+}
+
+.img-team1 {
+    height: 200px;
+    width: 150px;
+}
