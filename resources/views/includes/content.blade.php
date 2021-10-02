@@ -187,8 +187,6 @@
               </p>
             </div>
           </div>
-
-
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <i class="bi bi-box-seam"></i>
@@ -201,8 +199,6 @@
               </p>
             </div>
           </div>
-
-
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <i class="bi bi-map"></i>
@@ -214,8 +210,6 @@
             </p>
             </div>
           </div>
-
-
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <i class="bi bi-bricks"></i>
@@ -458,6 +452,88 @@
 
       </div>
     </section><!-- End Frequently Asked Questions Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Team</h2>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img class="img-team" src="{{ asset('assets/img/engins/team-56.png') }}" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Idrissa Diaby</h4>
+                <span>@lang('public.directeur-g')</span>
+                <div class="social">
+                  <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img class="img-team" src="{{ asset('assets/img/engins/lanfia.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Lanfia sano</h4>
+                <span>@lang('public.directeur-a')</span>
+                <div class="social">
+                  <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img class="img-team" src="{{ asset('assets/img/engins/kelefa.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Kelefa camara</h4>
+                <span>@lang('public.directeur-ach')</span>
+                <div class="social">
+                  <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="member d-flex align-items-start">
+                  <div class="pic"><img  src="{{ asset('assets/img/engins/saran1.jpg') }}" class="img-fluid" alt=""></div>
+                  <div class="member-info">
+                      <h4>Saran fofana</h4>
+                      <span>@lang('public.comptable')</span>
+                      <div class="social">
+                          <a href=""><i class="ri-twitter-fill"></i></a>
+                          <a href=""><i class="ri-facebook-fill"></i></a>
+                          <a href=""><i class="ri-instagram-fill"></i></a>
+                          <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+
+
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">

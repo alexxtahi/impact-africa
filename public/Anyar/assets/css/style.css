@@ -15,6 +15,16 @@ body {
     color: #444444;
 }
 
+.img-team {
+    height: 200px;
+    width: 180px;
+}
+
+.img-team1 {
+    height: 200px;
+    width: 150px;
+}
+
 a {
     text-decoration: none;
     color: #0880e8;
@@ -103,7 +113,6 @@ h6 {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -113,7 +122,6 @@ h6 {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -370,7 +378,6 @@ h6 {
     .navbar .dropdown .dropdown ul {
         left: -90%;
     }
-
     .navbar .dropdown .dropdown:hover>ul {
         left: -100%;
     }
@@ -398,7 +405,6 @@ h6 {
     .mobile-nav-toggle {
         display: block;
     }
-
     .navbar ul {
         display: none;
     }
@@ -593,7 +599,6 @@ h6 {
     #hero p {
         width: 60%;
     }
-
     #hero .carousel-control-prev,
     #hero .carousel-control-next {
         width: 5%;
@@ -606,7 +611,6 @@ h6 {
         height: 120vh;
         padding: 100px 0;
     }
-
     #hero h2 {
         font-size: 28px;
     }
@@ -1042,7 +1046,6 @@ section {
 }
 
 @media (max-width: 1024px) {
-
     .why-us .content,
     .why-us .accordion-list {
         padding-left: 0;
@@ -1054,7 +1057,6 @@ section {
     .why-us .content {
         padding-top: 30px;
     }
-
     .why-us .accordion-list {
         padding-bottom: 30px;
     }
@@ -1065,7 +1067,6 @@ section {
         transform: scale(0.6, 0.6);
         opacity: 1;
     }
-
     100% {
         transform: scale(1, 1);
         opacity: 0;
@@ -1077,7 +1078,6 @@ section {
         transform: scale(0.6, 0.6);
         opacity: 1;
     }
-
     100% {
         transform: scale(1, 1);
         opacity: 0;
@@ -1786,7 +1786,6 @@ section {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -1796,7 +1795,6 @@ section {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }

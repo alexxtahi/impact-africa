@@ -314,6 +314,11 @@ return[
 
 
 
+     //  --------------------- Page de team ---------------------
+     'directeur-g' => "General Manager",
+     'directeur-a' => "Deputy General Manager",
+     'directeur-ach' => "Purchasing Manager",
+     'comptable' => "Accountant",
 
 
 

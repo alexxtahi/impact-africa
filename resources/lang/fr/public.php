@@ -395,8 +395,15 @@ return[
                                 de l'industrie minière aurifère et non loin du district
                                 diamantifère de Guinée (Banankoro). La priorité est de
                                 consolider sa position à Siguiri, après quoi, elle cherchera
-                                à s'étendre à d'autres régions du pays.
-",
+                                à s'étendre à d'autres régions du pays.",
+
+
+
+    //  --------------------- Page de team ---------------------
+    'directeur-g' => "Directeur général",
+    'directeur-a' => "Directeur général adjoint",
+    'directeur-ach' => "Directeur des achats",
+    'comptable' => "Comptable",
 
 ]
 
