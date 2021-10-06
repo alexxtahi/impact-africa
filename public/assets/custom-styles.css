@@ -37,10 +37,10 @@
         background: url("/Anyar/assets/img/c4.jpg") top center;
     }
     20% {
-        background: url("/Anyar/assets/img/c3.jpg") top center;
+        background: url("/Anyar/assets/img/fond2.jpg") top center;
     }
     40% {
-        background: url("/Anyar/assets/img/c2.jpg") top center;
+        background: url("/Anyar/assets/img/fond3.jpg") top center;
     }
     60% {
         background: url("/Anyar/assets/img/c1.jpg") top center;
@@ -49,7 +49,7 @@
         background: url("/Anyar/assets/img/cta-bg.jpg") top center;
     }
     100% {
-        background: url("/Anyar/assets/img/c4.jpg") top center;
+        background: url("/Anyar/assets/img/fond1.jpg") top center;
     }
 }
 
