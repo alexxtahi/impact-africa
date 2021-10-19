@@ -7,7 +7,8 @@
 
   <title>Impact Africa - Accueil</title>
   <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="impact, africa, sarl, impact-africa, impact africa, btp" name="keywords">
+  <meta name="author" content="XCODERS">
 
   <!-- Favicons -->
   <link href="{{ asset('favicon.ico') }}" rel="icon">
