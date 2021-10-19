@@ -16,7 +16,7 @@ return[
 
 
 
-    "bienvenue-title" =>    "Bienvenue  sur la page officielle d'ImpactAfrica",
+    "bienvenue-title" =>    "Bienvenue  sur la page officielle d'Impact Africa",
 
     "bienvenue" =>    "Impact Africa est une société privée à responsabilité limitée,
                             enregistrée en Guinée, sans structure mère ou étrangère." ,
